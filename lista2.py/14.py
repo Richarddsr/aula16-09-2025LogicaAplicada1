@@ -17,5 +17,5 @@ while True:
         print(f"Sua média é {media} e seu conceito é E")
     sair = input("Deseja calcular a média de outro aluno? (s/n): ")
     if sair.lower() != 's':
-        print("ok")
+        print("ok..")
         break
